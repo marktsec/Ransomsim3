@@ -1,7 +1,7 @@
 #cs ----------------------------------------------------------------------------
 
  AutoIt Version: 3.3.14.5
- Author:         Mark
+ Author:         Mark (marktsec)
 
  Script Function:
 	Ransomware simulator. ransomsi
