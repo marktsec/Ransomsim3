@@ -33,6 +33,9 @@ Quick Start: ransomsim3.exe encrypt C:\test2
 WARNING - If the shadow copy delete option is selected, all shadow copies will be deleted. 
 WARNING - All files in the folder selected for the encryption will be encrypted. 
 
+NOTES FOR RED TEAMERS:
+USE IMPACKET SMBEXEC AND LOLBINS TO RUN THIS SIMULATION
+
 RANSOMSIM executable hash change
 There is an option to change the hash of the file by compiling the source using AutoIt compile right click option, or command line compile.
 
