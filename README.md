@@ -1,5 +1,5 @@
 # Ransomsim
-The best ransomware simulation for enterprise security
+The best ransomware simulation for enterprise security.
 In order to improve their security posture, many organizations want to test their security products and validate if they can prevent neverbefore-seen ransomware without resorting to running malware.
 Built to assist Red/Blue teams test their defenses.
 This tool simulates typical ransomware behavior, such as:
