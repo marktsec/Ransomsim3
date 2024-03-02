@@ -39,41 +39,7 @@ USE IMPACKET SMBEXEC AND LOLBINS TO RUN THIS SIMULATION
 RANSOMSIM executable hash change
 There is an option to change the hash of the file by compiling the source using AutoIt compile right click option, or command line compile.
 
-Examples: 
 
-Run simulation from cmd:
-ransomsim3.exe <parameters>
-Get simulation help - ransomsim3.exe help 
-
-
-Parameters: 
-1. Choose action: (encrypt-Commandline encrypt files, decrypt- command line Decrypt encrypted files) 
-2. Path to the folder to encrypt. Default - c:\ransomsimtest 
-3. Shadow copy delete. shadows-before - Delete shadows before encryption, shadows-after - Delete shadows after encryption. 
-4. Password for encryption. - Default - Password1 
-5. Encryption algorithm. - Default - AES (256bit) 
-
-Example: 
-Encrypt all files without shadow copy delete in the c:\ransomsimtest folder with Encryption algorithm AES (256bit) and password Password1.
-ransomsim3.exe encrypt
-Decrypt all files in the c:\ransomsimtest folder with Encryption algorithm AES (256bit) and password Password1. 
-ransomsim3.exe decrypt 
-Change default path to the folder to encrypt. 
-ransomsim3.exe encrypt c:\test2 
-Change default path to the folder to decrypt.
-ransomsim3.exe decrypt C:\test2 
-Delete shadow copies and encrypt files.
-ransomsim3.exe encrypt C:\test2 shadows-before 
-Encrypt files and delete shadow copies. 
-ransomsim3.exe encrypt C:\test2 shadows-after 
-Delete shadow copies, encrypt files and set custom encryption password. 
-ransomsim3.exe encrypt C:\test2 shadows-before Password2 
-Decrypt files with a custom encryption password. 
-ransomsim3.exe decrypt C:\test2 "" Password2 
-Encrypt files on the network drive via UNC path. 
-ransomsim3.exe decrypt \172.21.21.18\test2 
-Encrypt files on the mapped network drive via mapped drive letter. 
-ransomsim3.exe decrypt Z:\test2 
 
 ** Ransom note deployed to the encrypted folder. 
 ** Kill process option added. By default it closes the notepad.exe process if it exists. 
