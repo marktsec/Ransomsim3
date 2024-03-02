@@ -1,4 +1,4 @@
-Ransomware Simulator - RANSOMSIM
+Ransomware Simulator - RANSOMSIM3
 
  +-+-+-+-+-+-+-+-+-+
  |R|A|N|S|O|M|S|I|M|
