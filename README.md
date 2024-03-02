@@ -4,7 +4,7 @@ Ransomware Simulator - RANSOMSIM3
  |R|A|N|S|O|M|S|I|M|
  +-+-+-+-+-+-+-+-+-+
 
-
+THE BEST SIMULATION FOR ENTERPRISE SECURITY TESTING
 
 
 In order to improve their security posture, many organizations want to test their security products and validate if they can prevent never before-seen ransomware without resorting to running malware. 
