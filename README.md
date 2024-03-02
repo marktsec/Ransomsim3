@@ -19,14 +19,7 @@ USAGE:
 
 ransomsim3.exe [help] [mode] [path] [shadow copy] [password]
 
-Arguments: 
-help (optional)				Show this help message and exit
-mode 						Accepts encrypt or decrypt arguments.
-path 						Location of the Folder with files for encryption
-shadow copy (optional):
-			shadows-before - Delete shadows before encryption
-                                   shadows-after - Delete shadows after          
-password (optional) 				Password to use for encryption/decryption. 
+SEE ATTACHED DOCUMENTATION FOR USAGE AND EXAMPLES
 
 Quick Start: ransomsim3.exe encrypt C:\test2 
 
