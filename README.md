@@ -39,8 +39,6 @@ ransomsim3.exe encrypt C:\test
 
 > Note: NOTES FOR RED TEAMERS: USE IMPACKET SMBEXEC AND LOLBINS TO RUN THIS SIMULATION.
 
-Verify the deployment by navigating to your server address in
-your preferred browser.
 
 ```diff
 -  WARNING: This software does not offer any kind of guarantee. Its use is exclusive for educational environments and / or security audits with the corresponding consent of the client. I am not responsible for its misuse or for any possible damage caused by it.
