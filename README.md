@@ -36,8 +36,6 @@ ransomsim3.exe encrypt C:\test
 -  WARNING: If the shadow copy delete option is selected, all shadow copies will be deleted.
 -  WARNING: All files in the folder selected for the encryption will be encrypted.
 ```
-> WARNING: If the shadow copy delete option is selected, all shadow copies will be deleted.
-> WARNING: All files in the folder selected for the encryption will be encrypted.
 
 > Note: NOTES FOR RED TEAMERS: USE IMPACKET SMBEXEC AND LOLBINS TO RUN THIS SIMULATION.
 
