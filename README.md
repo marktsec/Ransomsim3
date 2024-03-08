@@ -37,7 +37,7 @@ ransomsim3.exe encrypt C:\test
 -  WARNING: All files in the folder selected for the encryption will be encrypted.
 ```
 
-> Note: NOTES FOR RED TEAMERS: USE IMPACKET SMBEXEC AND LOLBINS TO RUN THIS SIMULATION.
+> Note: FOR RED TEAMERS: USE IMPACKET SMBEXEC AND LOLBINS TO RUN THIS SIMULATION.
 
 
 ```diff
