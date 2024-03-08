@@ -2,7 +2,8 @@
 ## +-+-+-+-+-+-+-+-+-+ |R|A|N|S|O|M|S|I|M| +-+-+-+-+-+-+-+-+-+
 ##### THE BEST RANSOMWARE SIMULATION FOR ENTERPRISE SECURITY TESTING
 
-[MT|marktsec](https://twitter.com/marktsec46065)
+[MT|marktsec]
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)]([https://twitter.com/BraydonCoyer](https://twitter.com/marktsec46065))
 
 
 In order to improve their security posture, many organizations want to test their security products and validate if they can prevent never before-seen ransomware without resorting to running malware. Built to assist Red/Blue teams test their defenses.
