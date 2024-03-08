@@ -1,6 +1,6 @@
 # Ransomware Simulator - RANSOMSIM3
 ## +-+-+-+-+-+-+-+-+-+ |R|A|N|S|O|M|S|I|M| +-+-+-+-+-+-+-+-+-+
-##### THE BEST RANSOMWARE SIMULATION FOR ENTERPRISE SECURITY TESTING
+### THE BEST RANSOMWARE SIMULATION FOR ENTERPRISE SECURITY TESTING
 
 [MT|marktsec]
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/marktsec46065)
@@ -32,6 +32,10 @@ ransomsim3.exe encrypt C:\test
 ```
 #### SEE ATTACHED DOCUMENTATION FILE FOR ADVANCED USAGE AND EXAMPLES
 
+```diff
+-  WARNING: If the shadow copy delete option is selected, all shadow copies will be deleted.
+-  WARNING: All files in the folder selected for the encryption will be encrypted.
+```
 > WARNING: If the shadow copy delete option is selected, all shadow copies will be deleted.
 > WARNING: All files in the folder selected for the encryption will be encrypted.
 
@@ -40,7 +44,9 @@ ransomsim3.exe encrypt C:\test
 Verify the deployment by navigating to your server address in
 your preferred browser.
 
-> WARNING: This software does not offer any kind of guarantee. Its use is exclusive for educational environments and / or security audits with the corresponding consent of the client. I am not responsible for its misuse or for any possible damage caused by it.
+```diff
+-  WARNING: This software does not offer any kind of guarantee. Its use is exclusive for educational environments and / or security audits with the corresponding consent of the client. I am not responsible for its misuse or for any possible damage caused by it.
+```
 
 ## License
 
