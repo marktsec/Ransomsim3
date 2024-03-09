@@ -44,6 +44,8 @@ ransomsim3.exe encrypt C:\test
 - WARNING: This software does not offer any kind of guarantee. Its use is exclusive for educational environments and / or security audits with the corresponding consent of the client. I am not responsible for its misuse or for any possible damage caused by it.
 ```
 
+![Screenshot](testrun1.png)
+
 ## License
 
 MIT
